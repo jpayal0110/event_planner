@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Tech Conference 2024",
+    "date": "2024/11/15",
+    "location": "San Francisco, CA",
+    "description": "A large annual conference focusing on emerging technologies, including AI, blockchain, and cloud computing.",
+    "creationDate": "2024/10/01 10:30 AM",
+    "state": "upcoming"
+  },
+  {
+    "name": "Music Festival",
+    "date": "2024/08/10",
+    "location": "Austin, TX",
+    "description": "A three/day music festival featuring popular and indie artists from around the world.",
+    "creationDate": "2024/06/15 09:00 AM",
+    "state": "completed"
+  },
+  {
+    "name": "Web Development Workshop",
+    "date": "2024/12/05",
+    "location": "New York, NY",
+    "description": "A hands/on workshop covering modern web development technologies such as React, Vue, and Node.js.",
+    "creationDate": "2024/09/25 04:15 PM",
+    "state": "upcoming"
+  },
+  {
+    "name": "Startup Pitch Event",
+    "date": "2024/09/20",
+    "location": "Los Angeles, CA",
+    "description": "Entrepreneurs pitch their business ideas to investors in a bid to secure funding.",
+    "creationDate": "2024/07/05 02:45 PM",
+    "state": "completed"
+  },
+  {
+    "name": "AI in Healthcare Conference",
+    "date": "2024/11/30",
+    "location": "Chicago, IL",
+    "description": "A deep dive into the applications of artificial intelligence in healthcare, including case studies and future trends.",
+    "creationDate": "2024/10/10 11:20 AM",
+    "state": "upcoming"
+  },
+  {
+    "name": "Art Expo",
+    "date": "2024/08/22",
+    "location": "Miami, FL",
+    "description": "An international art expo showcasing contemporary artists and their latest work.",
+    "creationDate": "2024/05/12 08:50 AM",
+    "state": "completed"
+  },
+  {
+    "name": "Cybersecurity Summit",
+    "date": "2024/10/25",
+    "location": "Washington, D.C.",
+    "description": "A summit focusing on the latest trends and strategies in cybersecurity, with sessions by industry leaders.",
+    "creationDate": "2024/08/01 01:00 PM",
+    "state": "upcoming"
+  },
+  {
+    "name": "Fitness Bootcamp",
+    "date": "2024/09/01",
+    "location": "San Diego, CA",
+    "description": "A high/energy bootcamp to help participants improve their fitness levels through intensive workouts.",
+    "creationDate": "2024/07/20 06:30 AM",
+    "state": "completed"
+  }
+]
